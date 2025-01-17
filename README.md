@@ -1,5 +1,3 @@
-Here's a README file for your **Comprehensive Django Project Setup** guide, structured similarly to the previous examples:
-
 ---
 
 # Comprehensive Django Project Setup 🚀🐍
